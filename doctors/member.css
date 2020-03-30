@@ -1,0 +1,52 @@
+body
+{
+  background-color: #CDEDFD;
+}
+
+ul
+{
+  background-color: #81F7E5;
+}
+
+.nav-link
+{
+  color: black;
+}
+
+.jumbotron
+{
+    padding: 0rem;
+}
+
+.card
+{
+  display: flex;
+  flex-direction: row;
+  border-radius: 40px;
+  margin: 2%;
+  background-color: #A9F8FB;
+}
+
+.card-img
+{
+  border-radius: 40px;
+}
+
+button
+{
+  width: 20rem;
+  height: 3rem;
+  border-radius: 15px;
+  background-color: #B6DCFE;
+}
+
+.mr-3
+{
+  margin: 1rem;
+  border-radius: 15px;
+}
+
+.mt-0
+{
+  margin-top: 3.5rem !important;
+}
